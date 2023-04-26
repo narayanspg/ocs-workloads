@@ -8,7 +8,7 @@ metadata:
 spec:
   preferredCluster: "sub2-cicd-odf-1eb4"
   drPolicyRef:
-    name: drpolicy1
+    name: drpolicy2-10mins
   placementRef:
     kind: PlacementRule
     name: busybox-placement
