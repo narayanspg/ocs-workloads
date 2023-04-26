@@ -6,7 +6,7 @@ metadata:
   labels:
     app: busybox-sample
 spec:
-  preferredCluster: "sub1-cicd-odf-02cd"
+  preferredCluster: "sub2-cicd-odf-1eb4"
   drPolicyRef:
     name: drpolicy1
   placementRef:
